@@ -1,0 +1,11 @@
+#.idea/
+拉取教程.md
+.idea/
+**/._*
+测试/
+**/__c__*
+nohup.out
+**/*.bak
+**/migrations
+node_modules/
+.git/
